@@ -1,4 +1,4 @@
-# 🍽️ FoodSafe AI Scanner
+# FoodSafe AI Scanner
 
 FoodSafe AI Scanner adalah website berbasis Artificial Intelligence (AI) dan kamera realtime untuk mendeteksi makanan berbahaya, basi, berjamur, atau berpotensi menyebabkan keracunan sebelum dikonsumsi.
 
@@ -6,7 +6,7 @@ Website ini menggunakan teknologi Computer Vision dan AI Detection untuk mengana
 
 ---
 
-# 🚀 Features
+# Features
 
 ✅ Realtime AI Camera Scanner  
 ✅ Food Detection menggunakan AI  
@@ -24,7 +24,7 @@ Website ini menggunakan teknologi Computer Vision dan AI Detection untuk mengana
 
 ---
 
-# 🖥️ Tech Stack
+#  Tech Stack
 
 ## Frontend
 - React JS
@@ -40,7 +40,7 @@ Website ini menggunakan teknologi Computer Vision dan AI Detection untuk mengana
 
 ---
 
-# 📸 Preview
+#  Preview
 
 ## AI Camera Scanner
 - Realtime food detection
